@@ -2,41 +2,41 @@
 
 > **Name:** Kelvin Chris S. Gomez
 > **Section:** CS3A
-> **Date submitted:** [YYYY-MM-DD]
+> **Date submitted:** [2026-09-26]
 
 ---
 
 ## 1. User group
 
 **Who are you designing for?**  
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
+[The user group that my application will be designed for are the visitors or tourists that may want to go to mugna grounds to eat.]
 
 **Why might this group need support during Diyandi?**  
-[Briefly explain the group’s situation, goals, or needs.]
+[Because, the mugna grounds are quite crowded with so many food stalls to choose from and it could be inconvenient for a lot of people to search and find foods they want to eat.]
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+[Picture this, you are a visitor trying to find food to eat in the mugna grounds, and you are overwhelmed with how much food stalls there and you don’t know what food they might serve and how much they are at a glance.]
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+[It would cause a lot of inconvenience to people especially for people who are socially anxious or people who are not used to talking with people. It also would cause people to not buy food they want or they would miss a food that they might like just because they didn’t visit the food stall..]
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+[I would make an application that gathers all the food inside the mugna grounds and make a food menu in your app.]
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+[It would help the visitors to pick the food they want without stepping foot first in the mugna grounds, they also would see the price so they can budget accordingly.]
 
 ---
 
@@ -44,8 +44,8 @@
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. [A visitor can scan the food menu and it would be sorted by stores and the stores also have a map on where it is located so it would be easy to navigate.]
+2. [A visitor could also see the prices of the food and if it’s still available, and the ratings of the food itself if it’s good or not.]
 
 ---
 
@@ -56,12 +56,12 @@ Identify **two qualities** that would make your proposed system useful. You may 
 ### Quality 1: [Write a quality]
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+[I think this matters because, it would save the time for visitors to find the food they want to eat so they could have more time to enjoy mugna grounds with a full belly.]
 
 ### Quality 2: [Write a quality]
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+[I think it matters because, it would also help the vendors to showcase and advertise their product, in hopes to sell more.]
 
 ---
 
@@ -69,30 +69,16 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+[It could be determined by how much food is displayed on the food menu app, there are a lot of ratings for food that are displayed in the food menu app. ]
 
 ---
 
-## 8. Screenshot or reference
-
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
-
-> Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
-
-<!-- Example Markdown image syntax:
-![Brief description of screenshot](path/to/image.png)
--->
-
-**External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
-
----
 
 ## AI use declaration
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [/] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
@@ -114,4 +100,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** [Kelvin Chris S. Gomez]
