@@ -172,7 +172,7 @@ Select one option:
 
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 |---|---|---|---|
-| [Name] | [Tool] | [Purpose/sections] | [Review process] |
+| Not Applicable | Not Applicable | Not Applicable | Not Applicable |
 
 ### Main prompts or interaction summary
 
