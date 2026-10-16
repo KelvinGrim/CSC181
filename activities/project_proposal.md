@@ -85,12 +85,12 @@ Stakeholder-count explanation, if needed: Not applicable.
 
 ### Intended users and setting
 
-The primary users for this system are student renters seeking long-term accomodation for their academic semester. The landlords and property managers of boarding houses and dormitories are the main content providers. The system will operate as a web based application, designed to be accessed via a smartphone/desktop.
+The primary users for this system are student renters seeking long-term accommodation for their academic semester. The landlords and property managers of boarding houses and dormitories are the main content providers. The system will operate as a web based application, designed to be accessed via a smartphone/desktop.
 
 ### In-scope capabilities
 
 1. Search and Filter: Students can search for available rooms based on a criteria such as price range, location, gender restrictions, and room types (solo or shared).
-2. View Property Profiles: Students can view profiles for each listing, which will include photos, price, list of amneties, and contact information for the landlord.
+2. View Property Profiles: Students can view profiles for each listing, which will include photos, price, list of amenities, and contact information for the landlord.
 3. Manage Availability: Landlords can update the number of currently vacant beds or rooms in their properties, ensuring that students can see real-time availability.
 
 ### Out-of-scope capabilities
@@ -103,14 +103,14 @@ The primary users for this system are student renters seeking long-term accomoda
 
 1. A working minimum viable product (MVP) that shows the core search and listing features.
 2. A high-fidelity UI prototype.
-3. Complete project documentation that includes our tesing evidence from real users.
+3. Complete project documentation that includes our testing evidence from real users.
 
 ### Constraints
 
 | Constraint | Effect on the project | How the team will respond |
 |---|---|---|
 | Strict two months development timeframe | Severely limits the number of features that can be designed, built, and tested. | Strictly adhere to the defined MVP scope and defer out-of-scope items |
-| Zero budget | We can't pay for premium hosting, marketing, or paid map APIs | We will only use free, open-source developmental tools and stick to static addresses instead of live map tracking. |
+| Zero budget | We can't pay for premium hosting, marketing, or paid map APIs | We will only use free, open-source development tools and stick to static addresses instead of live map tracking. |
 
 ### Assumptions and dependencies
 
@@ -141,14 +141,11 @@ The biggest remaining risk is the operational feasibility of the project. Since 
 
 ### Three unanswered questions
 
-1. How do we effectively convince dorm owners, especially the non-tech-savvy ones, to adapt and regularly update the app?
+1. How do we effectively convince dorm owners, especially the non-tech-savvy ones, to adopt and regularly update the app?
 2. How will we verify that listings and landlords are legitimate?
-3. Will the app still be maintanable and sustainable?
+3. Will the app still be maintainable and sustainable?
 
 ## 7. Member Contribution Record
-
-[Record actual contributions, including ideas, discussion, analysis,
-drafting, checking feasibility, and reviewing the final document.]
 
 | Member | Ideas or analysis contributed | Drafting or review contribution |
 |---|---|---|
@@ -168,15 +165,13 @@ Select one option:
 - [x] No generative AI tools were used by any member in preparing this submission.
 - [ ] One or more members used generative AI tools. Details are provided below.
 
-[If AI was used, complete the table. If not, write Not applicable.]
-
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 |---|---|---|---|
-| _Not Applicable_ | _Not Applicable_ | _Not Applicable_ | _Not Applicable_ |
+| *Not applicable* | *Not applicable* | *Not applicable* | *Not applicable* |
 
 ### Main prompts or interaction summary
 
-Not Applicable
+*Not Applicable*
 
 We acknowledge that AI-generated suggestions are not evidence of actual
 stakeholder interviews, feedback, or verified community needs. We remain
@@ -208,6 +203,6 @@ upload the same Markdown file to their personal CSC181 repository.
 - [x] A review change and three unanswered questions are documented.
 - [x] Contributions, references, and AI use are declared.
 - [x] All members reviewed the same final document.
-- [x] Each member saved the file as `activities/project-proposal.md`.
-- [x] Each member committed and pushed their copy to their personal repository.
-- [x] Each member submitted their own GitHub file link through MOLE.
+- [ ] Each member saved the file as `activities/project-proposal.md`.
+- [ ] Each member committed and pushed their copy to their personal repository.
+- [ ] Each member submitted their own GitHub file link through MOLE.
